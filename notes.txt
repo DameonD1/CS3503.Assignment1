@@ -1,0 +1,4 @@
+These are my notes about learning GitHub.
+- Step 1: Created my account
+- Step 2: Made a repository
+- Step 3: Updated the README
